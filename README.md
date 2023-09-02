@@ -1,7 +1,6 @@
-
+![I am Programmer ](https://blog.bit.ai/wp-content/uploads/2018/09/How-to-Embed-GitHub-Gists-in-Your-Documents-Blog-Banner.png)
 <h1 align="center">Hi 👋, I'm Kazi Iftee</h1>
-<h3 align="center">A passionate about Data Science from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe">
+<h4 align="center">A passionate about Data Science from Bangladesh and a strong drive to unlock insights from complex datasets.</h4>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durjoy98" alt="durjoy98" /></a> </p>
