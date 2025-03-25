@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=durjoy98" alt="durjoy98" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science Course**
+- 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **Python, SQL, Machine Learning Algorithms**
+- 💬 Ask me about **Python, SQL, Excel, PowerBI & Machine Learning Algorithms**
 
 - 📫 How to reach me **kazinaymurrahman@gmail.com**
 
